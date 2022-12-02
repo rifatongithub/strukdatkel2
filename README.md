@@ -1,8 +1,8 @@
 # strukdatkel2
 
-TUGAS TABEL STRUKTUR DATA.
+TUGAS TABEL STRUKTUR DATA
 
-Kelompok 2.
+Kelompok 2
 
 2IA25
 

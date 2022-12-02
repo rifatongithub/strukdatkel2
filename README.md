@@ -1,2 +1,10 @@
 # strukdatkel2
-Tugas tabel struktur data.
+
+TUGAS TABEL STRUKTUR DATA.
+Kelompok 2.
+2IA25
+
+Nama-nama anggota:
+1. AFIF MUHAMMAD RAMADHAN (50421059)
+2. IMRAN RASYID (50421650)
+3. RIFAT HIDAYATULLAH (51421309)

@@ -1,3 +1,7 @@
+//AHMAD RAFIF DHIAULHAQ (51421574)
+//IMRAN RASYID (50421650)
+//RIFAT HIDAYATULLAH (51421309)
+
 //Masukkan header-header berikut.
 
 #include <iostream>

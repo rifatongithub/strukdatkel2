@@ -1,7 +1,9 @@
 # strukdatkel2
 
 TUGAS TABEL STRUKTUR DATA.
+
 Kelompok 2.
+
 2IA25
 
 Nama-nama anggota:
